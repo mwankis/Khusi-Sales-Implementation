@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.Sales.Plugins", "Crm.Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.Sales.Webresources", "Crm.Sales.Webresources\Crm.Sales.Webresources.csproj", "{6626A728-675B-4DE3-A348-17CD364E5A19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crm.Sales.Plugins.Tests", "Crm.Sales.Plugins.Tests\Crm.Sales.Plugins.Tests.csproj", "{CA6A4DDB-F290-45FD-93F3-AE85E2F35459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6626A728-675B-4DE3-A348-17CD364E5A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6626A728-675B-4DE3-A348-17CD364E5A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6626A728-675B-4DE3-A348-17CD364E5A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6A4DDB-F290-45FD-93F3-AE85E2F35459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6A4DDB-F290-45FD-93F3-AE85E2F35459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6A4DDB-F290-45FD-93F3-AE85E2F35459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6A4DDB-F290-45FD-93F3-AE85E2F35459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

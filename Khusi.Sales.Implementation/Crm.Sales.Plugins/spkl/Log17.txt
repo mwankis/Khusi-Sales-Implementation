@@ -1,0 +1,5 @@
+10:43:40	CrmSvcUtil : CRM Service Utility [Version 9.1.0.82]
+10:43:40	c 2020 Microsoft Corporation. All rights reserved
+10:43:40	
+10:43:40	Loading config from 'C:\Projects\Khusi Sales Implementation\Khusi-Sales-Implementation\Khusi.Sales.Implementation\packages\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\spkl.crmsvcutil.config'
+10:44:24	Code written to C:\Projects\Khusi Sales Implementation\Khusi-Sales-Implementation\Khusi.Sales.Implementation\Crm.Sales.Plugins\Models\CrmEntities\EarlyBoundTypes.cs.

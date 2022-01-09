@@ -1,0 +1,9 @@
+10:43:40	Generating early bound types
+10:43:40	Searching for plugin config in 'C:\Projects\Khusi Sales Implementation\Khusi-Sales-Implementation\Khusi.Sales.Implementation\Crm.Sales.Plugins\spkl\..'
+10:43:40	Using Config 'C:\Projects\Khusi Sales Implementation\Khusi-Sales-Implementation\Khusi.Sales.Implementation\Crm.Sales.Plugins'
+10:43:40	Target C:\Projects\Khusi Sales Implementation\Khusi-Sales-Implementation\Khusi.Sales.Implementation\packages\spkl.1.0.640\tools
+10:43:40	Running C:\Projects\Khusi Sales Implementation\Khusi-Sales-Implementation\Khusi.Sales.Implementation\packages\spkl.1.0.640\tools\..\..\Microsoft.CrmSdk.CoreTools.9.1.0.79\content\bin\coretools\CrmSvcUtil.exe /connstr:"AuthType=OAuth;
+                      AppId=51f81489-12ee-4a9e-aaae-a2591f45987d;
+                      RedirectUri=app://58145B91-0C36-4500-8554-080854F2AC97;
+                      TokenCacheStorePath=C:\Users\mwank\AppData\Roaming\spkl\TokenCache;Url=https://orge02550a8.crm4.dynamics.com;LoginPrompt=Always;UserName=moses.wankis@securitychanges.onmicrosoft.com" /out:"C:\Projects\Khusi Sales Implementation\Khusi-Sales-Implementation\Khusi.Sales.Implementation\Crm.Sales.Plugins\Models/CrmEntities/EarlyBoundTypes.cs" /namespace:"Crm.Sales.Plugins.Models.CrmEntities" /serviceContextName:"KhusiXrmSvc" /GenerateActions:"True" /codewriterfilter:"spkl.CrmSvcUtilExtensions.FilteringService,spkl.CrmSvcUtilExtensions" /codewritermessagefilter:"spkl.CrmSvcUtilExtensions.MessageFilteringService,spkl.CrmSvcUtilExtensions" /codegenerationservice:"spkl.CrmSvcUtilExtensions.CodeGenerationService, spkl.CrmSvcUtilExtensions" /metadataproviderqueryservice:"spkl.CrmSvcUtilExtensions.MetadataProviderQueryService,spkl.CrmSvcUtilExtensions"
+10:44:24	Processed 1 config(s)

@@ -41,7 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="src\scripts\contactform.js" />
+    <Content Include="src\scripts\kh_contactform.js" />
+    <Content Include="src\scripts\kh_resourcerequirement.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
